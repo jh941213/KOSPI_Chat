@@ -1,0 +1,5 @@
+pykrx
+fastapi
+uvicorn
+pydantic
+pandas
